@@ -1,0 +1,22 @@
+.category-btn{
+    margin-left: 5vh;
+    margin-top: 5vh;
+    height: 22vh;
+    width: 15vh;
+    border-radius: 38px;
+    border: none;
+    background-color: transparent;
+    box-shadow: rgba(255, 254, 254, 0.1) 0px 4px 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(181, 181, 181);
+    font-family: Montserrat;
+}
+
+.category-btn img{
+    height: 11vh;
+    width: auto;
+}
+

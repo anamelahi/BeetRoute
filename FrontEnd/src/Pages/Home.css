@@ -1,0 +1,36 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    padding-top: 7vh;
+}
+
+.home .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1{
+    color: aliceblue;
+}
+.action-btns{
+    display: flex;
+    justify-content: space-evenly;
+    width: 20vh;
+}
+.action-btns button{
+    background-color: transparent;
+    border: none;
+    /* background-color: rgb(92, 92, 84); */
+    padding: 1vh 2vh;
+}
+.icon{
+    color: white;
+    height: 4vh;
+    width: 4vh;
+}
+
+.category{
+    display: flex;
+}
+

@@ -1,0 +1,11 @@
+.cart-div{
+    display: flex;
+    flex-direction: column;
+    padding: 8vh 2vh 0vh 3vh;
+}
+
+.cart-div h1{
+    color: antiquewhite;
+    font-weight: 300;
+    font-size: 4vh;
+}
